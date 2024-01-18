@@ -1,3 +1,9 @@
+install json server :
+step 1:npm install -g json-server
+step 2: npx json-server --watch data/data.json
+After starting the server you will get data from your api 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
